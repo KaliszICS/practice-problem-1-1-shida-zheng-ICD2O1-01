@@ -4,7 +4,7 @@ def q1():
 
 def q2():
   #Write Assignment code here
-  print("1,n2,n3,n4,n5")
+  print("1\n2\n3\n4\n5")
   
 def q3():
   #Write Assignment code here
