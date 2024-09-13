@@ -17,6 +17,7 @@ def test_q1(capsys):
 def test_q2(capsys):
 
   try:
+
     exists = os.path.exists("PP1_1.py")
     assert exists
   except:
