@@ -11,3 +11,8 @@ def q3():
 def q4:
 4  #Write Assignment code here
   print("3 x 3 = 9")
+  
+q1()
+q2()
+q3()
+q4()
